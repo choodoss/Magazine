@@ -1,99 +1,75 @@
-const text = `4 
-ТЕЛЕВІЗОРИ, ЩО СТАЮТЬ ЦЕНТРОМ РОЗУМНОГО ДОМУ
-Моделі LG 2022 року забезпечують чудову якість зображення та надають нові smart-послуги.
-8 
-ІНТЕЛЕКТУАЛЬНА КОМБІНАЦІЯ ТЕХНІКИ ДЛЯ ДОГЛЯДУ ЗА РЕЧАМИ
-Пральна машина LG із технологією AI DD, сушильна машина LG із тепловим насосом і парова шафа LG Styler.
-12 
-УНІКАЛЬНА УНІВЕРСАЛЬНІСТЬ
-Candy Fresco – місткі холодильники, які відповідають стилю життя й задовольняють будь-які потреби користувачів.
-18 
-ОТРИМАЙТЕ БІЛЬШЕ З НОВИМИ ХОЛОДИЛЬНИКАМИ
-Холодильники LG вражають можливостями та ультрасучасним дизайном.
-22 
-ВІЧНА КЛАСИКА
-Колекція ретрохолодильників SNAIGĖ.
-26 
-ЗАВЖДИ ЧИСТА ВОДА
-Найкраще рішення для забезпечення питною водою оселі чи офісу – це встановлення фільтра зворотного осмосу Ecosoft.
-28 
-МАЙСТЕРНІСТЬ ГОТУВАТИ З ВИШУКАНОЮ ТЕХНІКОЮ
-Із новою серією вбудованих варильних поверхонь і духових шаф LG приготування перетворюється на суцільне задоволення.
-32 
-ДУХМЯНИЙ ДОМАШНІЙ ХЛІБ. ЛЕГКО, ЯК НІКОЛИ
-Розбудіть у собі гурмана з новою хлібопічкою Panasonic SD-YR2550.
-36 
-ПРИЄМНІ ВРАЖЕННЯ ДО СВЯТ І НА ЩОДЕНЬ
-Широкий асортимент форм для запікання ARDESTO.
-40 
-СМАЧНЕ ТА КОРИСНЕ ХАРЧУВАННЯ – ЛЕГКО!
-Молочний коктейль, фруктове або овочеве смузі, пюре чи тісто – з усім цим легко впорається стаціонарний блендер ARDESTO SBG‑1510B.
+const text = `4
+TELEVISIONS THAT BECOME THE CENTER OF A SMART HOME
+LG 2022 models provide excellent image quality and offer new smart services.
+4
+SEE MORE!
+2E - a new name in the television market.
+11
+SMART LIGHTING FOR A MORE COMFORTABLE LIFE
+Philips Hue creates a range of luminaires for special moments, any mood, and every corner of the home.
+16
+SMART LIGHTING BECOMES ACCESSIBLE
+Expanding the Wiz product line with outdoor lighting solutions that support the universal Matter open standard.
+20
+INVERTER AIR CONDITIONERS - A MODERN COOLING SYSTEM
+Let's explore the secrets of the popularity of ARDESTO brand models.
+26
+CLEAN WATER FOR YOUR HOME AND FAMILY
+Ecosoft filters - an effective solution to the problem of hard water in your apartment.
+30
+EXPLOSION-PROOF COMPOSITE GAS CYLINDERS
+Hexagon Ragasco gas cylinders help you use gas safely and conveniently, globally recognized for their safety.
+40
+RADIATORS THAT PROVIDE HEAT
+2E thermal radiators quickly warm up the room and help create an optimal microclimate.
 44
-МІКСУЙТЕ ІЗ ЗАДОВОЛЕННЯМ
-Міксери ARDESTO створено з урахуванням усіх можливих потреб користувача.
-48 
-СКОВОРІДКИ, У ЯКІ ЗАКОХУЮТЬСЯ КУХАРІ
-Уся серія посуду Fiskars Hard Face має міцне протипригарне покриття для складних завдань.
-52
- ДЛЯ ВСІЄЇ РОДИНИ
-Family Design ARDESTO – поєднання стилю, зручності та надійності.
-58
- ОЗНАКА ГОСТИННОСТІ
-Керамічний посуд ARDESTO вражає вишуканим стилем. 
-64
- ЗБЕРІГАЙТЕ ПРАВИЛЬНО ТА КРАСИВО
-Якщо потрібно охайно розкласти продукти на полицях і стелажах, у пригоді стануть банки для зберігання ARDESTO.
-68 
-ГОСТРІ ІДЕЇ ДЛЯ ОЩАДЛИВИХ КУХАРІВ 
-Ножі бренда ARDESTO.
-72 
-СУЧАСНИЙ ПОСУД ДЛЯ БУДЬ-ЯКИХ СИТУАЦІЙ
-Bormioli Rocco має один із найпотужніших скляних заводів у світі й експортує свою продукцію до понад 100 країн.
-80 
-ТЕХНІКА, СТВОРЕНА З ДУШЕЮ
-SENCOR виробляє зручні та інтуїтивно зрозумілі пристрої, що мають оригінальний та цікавий дизайн і дарують радість та задоволення.
-88 
-НОВІ ПРИСТРОЇ ДЛЯ РОЗВ'ЯЗАННЯ СТАРИХ ТУРБОТ
-Кухонна та прибиральна техніка Electrolux.
+GAS AS AN ALTERNATIVE FOR SOLVING CURRENT ISSUES
+Portable burners and cartridges EL GAZ.
+48
+EQUIPMENT FOR DOMESTIC AND FIELD CONDITIONS
+NEO Tools offers various solutions that can be useful during cooking and dining in challenging field or domestic conditions.
+54
+SECRETS OF THE FINNISH AXE
+Fiskars Norden N - embodiment of age-old experience.
+60
+CONVENIENT POWER SOURCE
+NEO Tools portable solar panels and their accessories.
+68
+SOLAR PANELS - A STEP TOWARDS ENERGY INDEPENDENCE
+Environmentally friendly and economical 2E panels suitable for use even in extreme conditions, useful not only at home but also in the field.
+74
+PORTABLE POWER STATIONS: ALWAYS WITH LIGHT AND CONNECTION
+2E charging stations for backup power supply.
+86
+POWERFUL ALTERNATIVE TO DISPOSABLE BATTERIES
+Panasonic eneloop successfully combine the convenience of alkaline batteries with the advantages of rechargeable batteries.
+90
+MULTIFUNCTIONAL SOLUTIONS FOR BATTERY MAINTENANCE
+NEO Tools chargers and starters - effortless charging without voltage "games."
+92
+UNIVERSAL SHOVELS
+2E shovels - indispensable helpers in household chores, during travel, in the backyard, and even in extreme field conditions!
 96
- РАЗОМ ДО ПЕРЕМОГИ
-Продукти Philips готові допомагати за будь-яких умов.
-98 
-ЗДОРОВЕ МАЙБУТНЄ ЗУБІВ
-Новітні, ультразвукові електричні зубні щітки ARDESTO видаляють зубний наліт у кілька разів краще за звичайні.
+GARDEN TRIMMERS
+VERTO devices will help maintain the lawn in proper condition where a regular lawnmower cannot handle.
+102
+LAWN MOWERS FOR GARDENS AND LAWNS
+RYOBI lawn mowers come in handy for caring for gardens of any size, from small front yards to large gardening areas.
 106
- ДЛЯ ГОЛІННЯ БЕЗ ПОРІЗІВ І ПОДРАЗНЕНЬ
-Електростанок OneBlade Pro – це універсальне рішення для щоденного догляду.
-108
- ШВЕЙНА МАШИНА ДЛЯ СКЛАДНИХ ПРОЄКТІВ
-Minerva LongArm Professional із потужністю двигуна 90 Вт та швидкістю роботи 1 000 проколів на хвилину.
-112 
-ПОВІТРЯ В БУДИНКУ: ДОПОМОГА У ВІДНОВЛЕННІ ЗДОРОВ’Я
-Інтелектуальні пристрої Ballu серії ONEAIR.
-114
- ЕЛЕКТРИЧНІ КОТЛИ: МІНІМАЛЬНІ ІНВЕСТИЦІЇ ТА ПРОСТИЙ МОНТАЖ
-Котли ARDESTO Smart мають рідкокристалічний дисплей та повний набір функцій для забезпечення високого рівня енергоефективності.
-118
- ОПАЛЕННЯ ВЗИМКУ, ОХОЛОДЖЕННЯ ВЛІТКУ Й ГАРЯЧА ВОДА ЗАВЖДИ
-Теплові насоси Ariston Nimbus працюють ефективніше, ніж електричний котел.
-122
- ЯК ПОВІЄ БУЙНЕСЕНЬКИЙ ВІТЕР...
-Забезпечити прохолоду, швидко провітрити оселю під час спеки допоможуть підлогові вентилятори ARDESTO.
-126 
-МУЛЬТИСПЛІТ-СИСТЕМА ДЛЯ КІЛЬКОХ ВНУТРІШНІХ БЛОКІВ
-Cooper&Hunter Nordic Multi Light – це DC-інверторна мультиспліт-система вільного компонування.
-130
- САД – КУТОЧОК ЩАСТЯ
-Посадковий інвентар, гілкорізи, інструменти для догляду за садом Fiskars.
-142 
-ГАЗОНОКОСАРКА-РАЙДЕР: ДБАЙЛИВИЙ ДОГЛЯД ЗА ГАЗОНОМ
-Потужна, міцна та зручна самохідна RYOBI RY48RM76A створена для професійного догляду.
-146
- НАДВАЖЛИВІ ІНСТРУМЕНТИ ДЛЯ ДОГЛЯНУТОГО САДУ
-Лопати, граблі, системи поливу, обприскувачі тощо бренда Verto.
-158
- СТИЛЬ І БЕЗПЕКА НА РОБОТІ
-NEO Tools ЗІЗ дає змогу оптимально адаптувати вбрання до роботи.`;
+IRRIGATION SOLUTIONS FOR YOUR GARDEN OR BACKYARD
+Building a watering system with Cellfast.
+116
+HEDGE TRIMMERS FOR DIFFERENT NEEDS
+Functional Einhell tools for maintaining hedges, shrubs, trees, and decorative plants in proper condition.
+120
+SCARIFY YOUR LAWN PROPERLY
+Einhell devices will help make your lawn lush, green, dense, strong, and resilient.
+126
+CORDLESS LAWN MOWER
+Eco-friendly and efficient mowing without noise and gasoline.
+136
+MEASURING TOOLS
+Measuring distance and size, determining moisture and temperature, as well as leveling become much easier with RYOBI tools.`;
 
 const lines = text.split('\n');
 
@@ -108,3 +84,6 @@ for (let i = 0; i < lines.length; i += 3) {
 }
 export default contents;
 console.log(contents)
+
+
+
