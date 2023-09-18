@@ -2,7 +2,6 @@ import content from './textArray';
 
 const lengthInColumn = content.length;
 const quantityFirstColumn = Math.ceil(lengthInColumn / 2);
-console.log(quantityFirstColumn)
 const divMain = document.querySelectorAll('.magazine-contents__col');
 
 const firstColumn = [];

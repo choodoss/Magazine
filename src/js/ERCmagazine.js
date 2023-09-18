@@ -9,6 +9,7 @@ const firstColumn = [];
 const secondColumn = [];
 
 content.forEach(({ number, name, text }, index) => {
+
   const column = index < quantityFirstColumn ? firstColumn : secondColumn;
   column.push(`<div class="magazine-contents__item">
     <div class="magazine-contents__number">${number}</div>
