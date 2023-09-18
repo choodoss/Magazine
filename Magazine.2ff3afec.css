@@ -1,0 +1,2 @@
+.magazine-contents__container{flex-wrap:wrap;gap:50px;display:flex}.magazine-contents__col{flex-basis:calc(100% - 50px)/2;box-sizing:border-box;padding:0 50px}.magazine-contents__item{align-items:center;margin-bottom:19px;display:flex}.magazine-contents__number{min-width:60px;color:#333;flex-shrink:0;font-size:22px;font-weight:600;line-height:24px}.magazine-contents__name{color:#000;margin-bottom:3px;font-size:16px;font-weight:600;line-height:20px}.magazine-contents__text{color:#4f4f4f;font-size:14px;line-height:20px}
+/*# sourceMappingURL=Magazine.2ff3afec.css.map */
