@@ -1,57 +1,78 @@
 const text = `4 
-ПОДАРУНКИ ДО СВЯТ
-ТОП дитячих побажань із листів Святому Миколаю.
-20 
-ІГРАШКИ МОНКАРТ — ВИДОВИЩНА ТРАНСФОРМАЦІЯ
-Серія трансформерів Young Toys за мотивами мультфільму «Монстри Монкарт».
-26 
-СПРАВЖНЄ АВТОРАЛІ
-Машинки New Bright на радіокеруванні розвивають швидкість до 15 км/год.
-30 
-ДЗИҐИ З ДИСТАНЦІЙНИМ КЕРУВАННЯМ
-Блейди Infinity NADO серії Electronic.
-36 
-ЗИМОВІ КОНВЕРТИ ДЛЯ ВІЗОЧКІВ І АВТОКРІСЕЛ
-Піклуємося про найтепліші моменти з Nuvita.
-42 
-MYMIA – ДБАЄ ПРО ПОТРЕБИ МАТУСЬ
-Одна сумка для безлiчi можливостей.
-46 
-ВІДЧУТИ СЕБЕ СПРАВЖНІМ ФОКУСНИКОМ
-Магічні іграшки Fun Promotion. 50 IQ ELECTRIC CUBE Захоплива головоломка із світлодіодним підсвічуванням.
-52 
-ДЛЯ МАЛЕНЬКИХ ВИНАХІДНИКІВ
-Дитячі набори металевих конструкторів Same Toy.
-56 
-ІГРАШКИ-РОБОТИ ВРАЖАЮТЬ УЯВУ
-Роботи Same Toy навчають англійської мови й основ програмування.
-60 
-У СВІТІ «МАЙНКРАФТ» Є НОВИНИ
-Грай у реальному житті разом із фігурками Jazwares Minecraft.
-66 
-ПЛАТФОРМА СУЧАСНИХ ПІДЛІТКІВ
-Збирай колекцію ігрових фігурок Jazwares Roblox.
-74 
-НАСНАГА ГРАТИ, ХИСТ ЗАРОБЛЯТИ
-Чому вже час долучитися до Fortnite.
-86 
-ДОТОРКНИСЬ ДО ЛЕГЕНДИ
-Римейк першої консолі PlayStation Classic.
-88 
-PLAYSTATION ДЛЯ ДІТЛАХІВ
-Добірка кращих ігор для дітей.
-92 
-НОВА ЕРА СИМРЕЙСИНГУ
-Кокпіти Playseat та маніпулятори Thrustmaster.
-104 
-ІНСТРУМЕНТ, З ЯКИМ БАТЬКИ МОЖУТЬ УСЕ
-Dremel подарує іграшкам нове життя.
-106 
-НОВОРІЧНА КАЗКА ВЛАСНИМИ РУКАМИ
-Інструменти Topex Creator.
-108 
-ПОВНЕ ЗАНУРЕННЯ У МУЗИЧНИЙ ВИР З УЛЮБЛЕНИМИ ГЕРОЯМИ
-Навушники й акустичні системи eKids`;
+A NEW WAVE OF ADVENTURES FOR FANS OF THE ROBLOX UNIVERSE
+DevSeries offers toys for children and teenagers based on the most popular games of the online platform.
+14 
+THE BATTLE ROYALE: COLLECTION EXPANSION!
+What’s new in the world of Fortnite figures?
+18 
+TRANSFORMERS ON WHEELS
+Flip Cars is a whole world of adventures that can fit in the palm of your hand.
+24 
+SUPERHEROES OF THE SKY: HAPPY ADVENTURES AWAIT!
+Super Wings gives children the opportunity to explore, fantasize and play without limits.
+34 
+THE ARENA OF REAL MASTERS
+New wave of Infinity Nado VI: more power, more combinations.
+40 
+BRIGHT COLORS OF CHILDHOOD
+The wide range of Janod, French manufacturer, offers solutions for little dreamers, explorers and future musicians that will fill childhood with exciting experiences, rewarding discoveries and unforgettable moments.
+70 
+BOARD GAMES FOR THE WHOLE FAMILY
+Goliath is a fun family activity, learning new things and strengthening emotional ties with your loved ones.
+76 
+BUILDING SETS THAT FASCINATE!
+Each LEGO set is a starting point for your own story.
+98 
+MAGNETIC CONSTRUCTIONS
+Magplayer range includes a varietyof interesting sets that will satisf y children’s boundless imagination.
+110 
+BABY’S COMFORT CARE
+The Greentom Classic stroller is a combination of aesthetics and functionality.
+114 
+FEEDING LITTLE GOURMETS WITH A STYLE!
+The updated collection of Oribel Cocoon accessories is a must-have for both baby and parents.
+118 
+THE CHOICE OF TRUE BUBBLE FANS
+Gazillion continues to surprise with new products that become bestsellers among parents and children.
+124 
+SUNGLASSES FOR CHILDREN: FASHIONABLE AND ESSENTIAL
+KOOLSUN products are a combination of reliable protection, safe materials and stylish design.
+130 
+NEW ADVENTURES FOR YOUNG DREAMERS
+Welcome to the world of Our Generation!
+136 
+FAIRYTALES THAT COME TO LIFE
+Li'l Woodzeez immerses children in a fantastical world full of fun and adventures.
+142 
+FAMILY IQ MARATHON
+Same Toy puzzles are not just toys, but a real brain challenge that brings people together and creates unforgettable moments.
+150 
+PLAYING TOGETHER: HOW TO ORGANIZE FUN AND PRODUCTIVE TIME WITH YOUR CHILD
+Same Toys offer numerous opportunities for joint creativity and exciting rest.
+154 
+TRANSPORT FOR YOUNG ADVENTURERS
+Miqilong Retro-Design Bicycles for Active Adventures.
+158 
+QUALITY TRANSPORT FOR KIDS IN MODERN COLORS
+Miqilong expands the range of HPA 12" balance bikes.
+162 
+STYLISH BALANCE BIKES AND RELIABLE HELMETS
+Miqilong offers a vibrant collection of HP 12" balance bikes in four trendy colors: black, olive, pink and turquoise. And to ensure young adventurers always feel safe, Miqilong also offers the Atlas and Condor helmet series.
+164 
+SHINE, RIDE, GROW! 
+NEON 2-in-1 Combo Skates: New Colors – New Emotions!
+168 
+WORLD OF ADVENTURES ON WHEELS
+Yvolution: Children's transport for active leisure.
+180 
+USEFUL FUN: FROM SCREEN TO KIDS’ HANDS
+CoComelon toy is a ticket to an exciting world where learning is combined with play.
+194 
+COLLECT THE WHOLE TEAM!
+Inspired by the adventures of Spidey, Ghost-Spider and Miles Morales, Jazwares offers a range of toys that let every child feel like a true superhero.
+198 
+CREATIVE IDEAS
+Cra-Z-Art sets offer endless possibilities for young artists!`;
 
 const lines = text.split('\n');
 
