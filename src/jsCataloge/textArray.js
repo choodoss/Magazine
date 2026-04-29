@@ -1,115 +1,143 @@
 const text = `6
-Електрочайники 
-10
-Кавоварки 
-12
-Соковичавниці 
+Electric Kettles
+11
+Coffee Makers
 14
-Блендери занурювані 
+Soda Makers
+14
+Milk Frothers and Heaters
 15
-Блендери стаціонарні 
-15
-Чопери 
+Juicers
 16
-Міксери 
-17
-Кухонні ваги 
+Thermo Pots
 18
-Кухонні комбайни 
-18
-М’ясорубки 
+Hand Blenders
+19
+Choppers
 20
-Кавомолки 
+Electric Graters
 20
-Скиборізка 
+Mixers
+21
+Kitchen Scales
 22
-Тостери 
+Kitchen Machines
 22
-Сендвічниці 
-23
-Мультимейкери 
-23
-Електрогрилі 
-24
-Плитки електричні 
+Meat Grinders
 25
-Плитки індукційні 
+Vacuum Sealers
+25
+Coffee Grinders
 26
-Сушарки
-26 
-Мультиварки 
-27
-Мікрохвильові печі 
+Electric Slicers
+28
+Toasters
+29
+Sandwich Makers
+29
+Multi-Function Sandwich Makers
 30
-Печі електричні 
+Electric Grills
+31
+Vertical Electric Grills
+31
+Electric Cookers
 32
-Плити 
-38
-Роботи-пилососи 
-38
-Бездротові пилососи
-41
-Машинки для очищення одягу 
-41
-Праски 
-42
-Відпарювачі 
-45
-Ваги підлогові 
+Induction Cookers
+33
+Food Dehydrators
+34
+Multicookers
+36
+Multicookers-Pressure Cookers
+36
+Air Fryers
+37
+Microwave Ovens
+40
+Electric Ovens
 47
-Іригатори портативні та стаціонарні
-47
-Електричні зубні щітки 
-50
-Фени 
+Cookers
 52
-Професійні фени 
-52
-Плойки 
-53
-Випрямлячі волосся 
-53
-Машинки для підстригання
-54
-Тримери 
-54
-Епілятори
+Kitchen Hoods
 56
-Холодильники 
-59
-Морозильні скрині 
-60
-Морозильні камери 
+Cordless Vacuum Cleaners
+58
+Corded Vacuum Cleaners
 61
-Холодильники для вина 
-61
-Льодогенератори 
+Mosquito Repellent Lanterns
 63
-Пральні машини напівавтоматичні
+Fabric Pill Removers
+63
+Steam Cleaners
 64
-Пральні машини автоматичні 
-68
-Конвекційні обігрівачі 
+Irons
+65
+Steamers
+66
+Shoe Dryers
 69
-Тепловентилятори 
-69
-Теплові гармати 
-70
-Масляні обігрівачі 
+Bathroom Scales
 71
-Інфрачервоні обігрівачі 
+Oral Irrigators
 72
-Керамічні нагрівальні панелі 
-75
-Вентилятори 
+Electric Toothbrushes
+74
+Hair Dryers
+76
+Professional Hair Dryers
+76
+Hair Curlers
 77
-Зволожувачі повітря 
-77
-Очищувачі повітря 
-78
-Електричні водонагрівачі 
+Hair Straighteners
+79
+Hair Clippers
+79
+Trimmers
 80
-Вбудовані холодильники для вина`;
+Hair Cutting Kits
+80
+Epilators
+81
+Electric Shavers
+83
+Refrigerators
+87
+Coolers
+89
+Freezers
+90
+Wine Coolers
+90
+Ice Makers
+92
+Semi Automatic Washing Machines
+93
+Automatic Washing Machines
+96
+Drying Machines
+97
+Dishwasher Machines
+102
+Convector Heaters
+103
+Industrial Fan Heaters
+103
+Oil Heaters
+104
+Infrared Heaters
+106
+Fans
+108
+Portable Fans
+108
+Exhaust Fans
+109
+Climatic Complexes
+110
+Humidifiers
+111
+Electric Water Heaters`;
 
 const lines = text.split('\n');
 

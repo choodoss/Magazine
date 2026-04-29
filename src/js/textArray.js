@@ -1,78 +1,51 @@
-const text = `4 
-A NEW WAVE OF ADVENTURES FOR FANS OF THE ROBLOX UNIVERSE
-DevSeries offers toys for children and teenagers based on the most popular games of the online platform.
-14 
-THE BATTLE ROYALE: COLLECTION EXPANSION!
-What’s new in the world of Fortnite figures?
-18 
-TRANSFORMERS ON WHEELS
-Flip Cars is a whole world of adventures that can fit in the palm of your hand.
-24 
-SUPERHEROES OF THE SKY: HAPPY ADVENTURES AWAIT!
-Super Wings gives children the opportunity to explore, fantasize and play without limits.
-34 
-THE ARENA OF REAL MASTERS
-New wave of Infinity Nado VI: more power, more combinations.
-40 
-BRIGHT COLORS OF CHILDHOOD
-The wide range of Janod, French manufacturer, offers solutions for little dreamers, explorers and future musicians that will fill childhood with exciting experiences, rewarding discoveries and unforgettable moments.
-70 
-BOARD GAMES FOR THE WHOLE FAMILY
-Goliath is a fun family activity, learning new things and strengthening emotional ties with your loved ones.
-76 
-BUILDING SETS THAT FASCINATE!
-Each LEGO set is a starting point for your own story.
-98 
-MAGNETIC CONSTRUCTIONS
-Magplayer range includes a varietyof interesting sets that will satisf y children’s boundless imagination.
-110 
-BABY’S COMFORT CARE
-The Greentom Classic stroller is a combination of aesthetics and functionality.
-114 
-FEEDING LITTLE GOURMETS WITH A STYLE!
-The updated collection of Oribel Cocoon accessories is a must-have for both baby and parents.
-118 
-THE CHOICE OF TRUE BUBBLE FANS
-Gazillion continues to surprise with new products that become bestsellers among parents and children.
-124 
-SUNGLASSES FOR CHILDREN: FASHIONABLE AND ESSENTIAL
-KOOLSUN products are a combination of reliable protection, safe materials and stylish design.
-130 
-NEW ADVENTURES FOR YOUNG DREAMERS
-Welcome to the world of Our Generation!
-136 
-FAIRYTALES THAT COME TO LIFE
-Li'l Woodzeez immerses children in a fantastical world full of fun and adventures.
-142 
-FAMILY IQ MARATHON
-Same Toy puzzles are not just toys, but a real brain challenge that brings people together and creates unforgettable moments.
-150 
-PLAYING TOGETHER: HOW TO ORGANIZE FUN AND PRODUCTIVE TIME WITH YOUR CHILD
-Same Toys offer numerous opportunities for joint creativity and exciting rest.
-154 
-TRANSPORT FOR YOUNG ADVENTURERS
-Miqilong Retro-Design Bicycles for Active Adventures.
-158 
-QUALITY TRANSPORT FOR KIDS IN MODERN COLORS
-Miqilong expands the range of HPA 12" balance bikes.
-162 
-STYLISH BALANCE BIKES AND RELIABLE HELMETS
-Miqilong offers a vibrant collection of HP 12" balance bikes in four trendy colors: black, olive, pink and turquoise. And to ensure young adventurers always feel safe, Miqilong also offers the Atlas and Condor helmet series.
-164 
-SHINE, RIDE, GROW! 
-NEON 2-in-1 Combo Skates: New Colors – New Emotions!
-168 
-WORLD OF ADVENTURES ON WHEELS
-Yvolution: Children's transport for active leisure.
-180 
-USEFUL FUN: FROM SCREEN TO KIDS’ HANDS
-CoComelon toy is a ticket to an exciting world where learning is combined with play.
-194 
-COLLECT THE WHOLE TEAM!
-Inspired by the adventures of Spidey, Ghost-Spider and Miles Morales, Jazwares offers a range of toys that let every child feel like a true superhero.
-198 
-CREATIVE IDEAS
-Cra-Z-Art sets offer endless possibilities for young artists!`;
+const text = `4
+СПІЛКУВАТИСЬ УКРАЇНСЬКОЮ МОДНО ТА СУЧАСНО
+Мовленнєві помилки в щоденній бізнес-діяльності. Частина 12.
+8
+РОЛЬ СУЧАСНОГО IT-КОНСАЛТИНГУ У ВПРОВАДЖЕННІ НОВИХ ТЕХНОЛОГІЙ
+Кейс O-Digital: спроєктовано цільову архітектуру та впроваджено рішення на базі Microsoft Fabric із використанням хмарного середовища AWS.
+14
+ІНТЕЛЕКТУАЛЬНИЙ АСИСТЕНТ ДЛЯ ВДОСКОНАЛЕННЯ РОБОЧИХ ПРОЦЕСІВ
+Багатофункціональне рішення Copilot підтримує широкий спектр сценаріїв роботи з інформацією.
+18
+ЗБЕРІГАННЯ ДАНИХ ЯК СТРАТЕГІЧНА ОСНОВА БІЗНЕСУ
+Lenovo DS Series: оптимізоване блочне зберігання з розширеними функціями захисту, можливістю масштабування та ефективним використанням системних ресурсів.
+20
+АРХІТЕКТУРА БЕЗПЕКИ ЕПОХИ МУЛЬТИХМАРИ ТА ШТУЧНОГО ІНТЕЛЕКТУ
+Cisco Hybrid Mesh Firewall поєднує мережевий периметр, хмару, користувачів і внутрішні робочі навантаження.
+26
+ВИХІД ЗА МЕЖІ ТРАДИЦІЙНИХ МОДЕЛЕЙ НАЗЕМНИХ ІНФРАСТРУКТУР
+Dell Private Cloud – це платформа нового покоління, що забезпечує гнучке керування ІТ-ресурсами та формує надійну основу для стабільного розвитку бізнесу.
+28
+ЗАХИЩЕНІ ПЛАНШЕТИ ДЛЯ ЕКСТРЕМАЛЬНИХ УМОВ
+Dell Pro Rugged на базі Windows розроблено з акцентом на максимальну витривалість і безперебійність роботи.
+32
+НОУТБУКИ ДЛЯ ТОПМЕНЕДЖЕРІВ З АІ
+HP оновлено, розширено та перейменовано модельний ряд ноутбуків EliteBook, орієнтованих насамперед на корпоративних користувачів середньої та вищої управлінської ланки.
+40
+ЗБИРАЄМО НОВОЧАСНИЙ ПК ІЗ ВИСОКОТЕХНОЛОГІЧНИМИ КОМПОНЕНТАМИ
+У рішеннях Zalman інженерну логіку поєднано з продуманою конструкцією та вимогами до візуальної естетики сучасних ПК-систем.
+48
+БЛОКИ ЖИВЛЕННЯ ДЛЯ БУДЬ-ЯКОЇ КОНФІГУРАЦІЇ
+Асортимент 2E охоплює як нові продукти, так і модернізовані версії популярних моделей.
+52
+БАГАТОФУНКЦІОНАЛЬНИЙ ПРИСТРІЙ ДЛЯ КОРПОРАТИВНОГО ДРУКУ
+Lexmark CX950se поєднує друк, копіювання і сканування з опціями підключення та оброблення документів.
+56
+ОФІС БЕЗ ЗАЙВОЇ РУТИНИ
+Xerox VersaLink – лінійка пристроїв, у якій акцент зроблено не лише на швидкості друку, а передусім на програмній логіці та безшовній цифровій взаємодії.
+62
+МОДУЛЬНА АУДІОАРХІТЕКТУРА ДЛЯ ПЕРЕГОВОРНИХ ПРОСТОРІВ
+HP Poly Studio A2 – це платформа, яка поєднує масштабованість, просту інсталяцію та стабільно якісне передавання мовлення.
+66
+ПОРТАТИВНА АКУСТИКА ДЛЯ БІЗНЕСУ ТА РОЗВАГ
+Оновлені автономні колонки Sony формують комплексну екосистему.
+72
+ГЛОБАЛЬНІ ІННОВАЦІЇ ДЛЯ ЕНЕРГОНЕЗАЛЕЖНОСТІ УКРАЇНИ
+Інвертори Solis відкривають можливості для реалізації надійних і масштабованих енергетичних рішень.
+76
+АКУМУЛЯТОР ДЛЯ РЕЗЕРВНОГО ЖИВЛЕННЯ ТА СОНЯЧНИХ ЕЛЕКТРОСТАНЦІЙ
+Leapton EL-A05 IP65 – пристрій нового покоління, який забезпечує стабільний енергетичний резерв і безперебійну роботу систем живлення навіть за складних умов експлуатації.`;
 
 const lines = text.split('\n');
 
